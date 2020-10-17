@@ -1,1 +1,1 @@
-# goit_noda_lesson_1
+# noda-js-30
